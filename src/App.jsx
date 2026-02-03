@@ -23,7 +23,7 @@ const store = [
   },
   {
     section: "Apple Watch",
-    icon: "⌚",
+    icon: "⌚", 
     items: [
       { name: "Apple Watch Series 7", image: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKUU3_AV1?wid=500&hei=500&fmt=jpeg&qlt=95&.v=1630705872000", tags: ["Watch", "GPS"] },
       { name: "Apple Watch Series 8", image: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref_AV1?wid=500&hei=500&fmt=jpeg&qlt=95&.v=1660715723147", tags: ["Watch", "GPS"] },
